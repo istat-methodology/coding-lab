@@ -6,7 +6,7 @@ This is the first edition of the Coding Lab, we have 6 wonderful students divide
 ## Sta Py
 
 Team members:
- * Fabbrico Davide
+ * Fabbrico Davide (davide.fabbrico@stud.unifi.it)
  * Khateeb Ahmad Arsalan
  * Pagnoncelli Diego
 
