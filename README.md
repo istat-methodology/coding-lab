@@ -3,7 +3,8 @@ This repo contains the source code of the Coding Lab hosted by Istat
 
 This is the first edition of the Coding Lab, we have 6 wonderful students divided in two teams:
 
-**Sta py**
+## Sta Py
+
 Team members:
  * Fabbrico Davide
  * Khateeb Ahmad Arsalan
@@ -12,7 +13,8 @@ Team members:
 Istat Tutor:
 *Fabrizio De Fausti*
 
-**Just a normal distributed group**
+## Just a normal distributed group
+
 Team members:
  * Resulbegoviq Hakile
  * Tijanic Jelena
