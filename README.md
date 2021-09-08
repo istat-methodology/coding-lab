@@ -1,2 +1,2 @@
-# coding-lab
-Repo for coding lab projects
+# Coding lab
+This repo will contain the source code of our projects
