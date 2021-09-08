@@ -1,5 +1,5 @@
 # Coding lab
-This repo contains the source code of the Coding Lab hosted by Istat
+This repo contains the source code of the **Coding Lab hosted by Istat**
 
 This is the first edition of the Coding Lab, we have 6 wonderful students divided in two teams:
 
