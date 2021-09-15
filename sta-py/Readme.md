@@ -9,4 +9,6 @@ Team members:
 Istat Tutor:
 *Fabrizio De Fausti*
 
+The **Comext Open Data** is a ipynb file that allow us to visualize the comext data inside a dataframe. Time O(n).
+
 **Please add any info on your project in this file...**
