@@ -21,6 +21,8 @@ Team members:
  * Viti Elena
 
 Istat Tutor:
-*Erika Cerasti*
+*Erika Cerasti* and *Federico Brogi*
 
 The teams will also be supported by *Francesco Amato* and *Mauro Bruno* for any technical and bureaucratic issue :)
+
+We have added to our wonderful group the Trade expert *Serena Causo*
