@@ -20,11 +20,11 @@ Some typical examples of these binary relationships could be, communications or 
 Each instance of these relationships creates connections between two agents, the connections are called edges and the agents nodes.
 In our analysis we will consider the relationships between two different states as the set of edges and the states as a set of nodes.
 So for example if objects x are exported from state A to state B then we will say that there is an edge that connects A to B, indicated with the tuple (A, B).
-As we have seen the arcs that are created have a specific order, we cannot say in the previous example that B is connected to A, so we will say that the graph is a direct graph.
+The arcs that are created have a specific order,i.e. in the previous example it is not necessary that B is connected to A, so we will say that the graph is a direct graph.
 Furthermore, our graph will have weights associated with each edge, these weights indicate the distance between two states.
-The mathematical properties of a graph are many but we have decided to analyze some of them including similarity.
-But why exactly the similarity?
-In our opinion, finding when two states are similar in terms of imported and/or exported goods is a great way both to understand what decision a single state has made to address a problem and to analyze why two states have acted in the same way due to unforeseen difficulties, for example the health emergency still present today.
+There are many mathematical properties of a graph but we have decided to analyze some of them including similarity.
+But why should we care about the similarity?
+In our opinion, finding when two states are similar in terms of imported and/or exported goods is a great way to both understand what decision a single state has made to address a problem and to analyze why two states have acted in the same way due to unforeseen difficulties, for example the health emergency caused due to Covid-19.
 For example if A and B are similar, then:
 * most likely share the same decisions which may include education, health or environmental laws,
 * assuming that C exports the same goods to A and B, if C was not there what could be a substitute for C?,
@@ -32,14 +32,14 @@ For example if A and B are similar, then:
 * we can understand if an event has affected several states,
 * ...
 
-Since we take care of the environment, our study will also focus on the analysis of pollution due to international transport, we will provide both descriptive statistics, for example the euros spent on fuel over a period of time, and predictive statistics, how the waste of gasoline as an E event has occurred? If a state A failed to trade more goods how would we reduce the amount of pollution?
+Since environmental protection is a pressing topic today, our study will also focus on the analysis of pollution due to international transport, we will provide both descriptive statistics, for example the euros spent on fuel over a period of time, and predictive statistics, how the waste of gasoline as an event E has occurred? If a state A failed to trade more goods, how would we reduce the amount of pollution?
 We will also be able to determine which are the most *Green* countries, attributing a measure called *Greenness*, based on the objects it imports and exports with the rest of the world.
 
-The aforementioned analyzes will be carried out over time, i.e. the graph will not have a static but a dynamic structure in order to highlight and explain the events that have characterized each state.
-In addition to the aforementioned analyzes, we will also study the measures:
+The aforementioned analyzes will be carried out over time, i.e. the graph will have a dynamic structure in order to highlight and explain the events that characterize each state.
+In addition to this, we will also study the measures:
 * Minimum Dominating set,
 * Centrality,
-* Distribution of the degrees of the nodes, in order to verify if this follows a power law and therefore confirm the fact that we are in a "small world",
+* Distribution of the degrees of the nodes, in order to verify if it follows a power law and therefore confirm the fact that we are in a "small world",
 * Power of each node
 
 
