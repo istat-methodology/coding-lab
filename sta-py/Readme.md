@@ -13,7 +13,7 @@ The **Comext Open Data** is a ipynb file that allow us to visualize the comext d
 
 **Please add any info on your project in this file...**
 
-**Some Documentation**
+## Some Documentation
 
 Graphs represent a simple, elegant, and powerful mathematical structure for representing and analyzing binary relationships.
 Some typical examples of these binary relationships could be, communications or collaborations.
