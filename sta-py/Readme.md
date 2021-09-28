@@ -3,8 +3,8 @@ This is the repo of the Sta-py Team
 
 Team members:
  * Fabbrico Davide (davide.fabbrico@stud.unifi.it)
- * Khateeb Ahmad Arsalan
- * Pagnoncelli Diego
+ * Khateeb Ahmad Arsalan (khaa11@vse.cz)
+ * Pagnoncelli Diego (d.pagnoncelli1@studenti.unibg.it)
 
 Istat Tutor:
 *Fabrizio De Fausti*
