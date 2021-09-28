@@ -7,7 +7,7 @@ This is the first edition of the Coding Lab, we have 6 wonderful students divide
 
 Team members:
  * Fabbrico Davide (davide.fabbrico@stud.unifi.it)
- * Khateeb Ahmad Arsalan
+ * Khateeb Ahmad Arsalan (khaa11@vse.cz)
  * Pagnoncelli Diego (d.pagnoncelli1@studenti.unibg.it)
 
 
