@@ -1,0 +1,27 @@
+\documentclass[a4paper,11pt]{book}
+\usepackage[T1]{fontenc} 
+\usepackage[utf8]{inputenc} 
+\usepackage[english]{babel} 
+\usepackage{lipsum} 
+\usepackage{url} 
+\newcommand{\fncyblank}{\fancyhf{}}
+\newenvironment{abstract}
+{\cleardoublepage \fncyblank \null \vfill \begin{center}
+\bfseries \abstractname \end{center}}
+{\vfill \null}
+
+\begin{document}
+\author{Elena Viti \and Hakile \and Jelena}
+\title{Il titolo}
+\maketitle
+\begin{abstract}
+This paper deals with the complex and topical issue of international trade. The analysis focuses in particular on trade in plastics in both primary and non-primary forms; the data considered for the analysis can be found on the Eurostat website.\\
+The time interval chosen is large enough to carry out time series analyses, thus taking into account the normality of the distribution. The months from January 2017 to July 2021 will be considered.
+In the first part the chosen dataset will be carefully explored with the use of graphs, in order to have a good visualisation of the set of observations.\\
+Subsequently, a Chow test will be carried out for the records from February to March 2020 in order to verify the stability of the parameters. If the test shows a structural break in this period, which would be attributable to the role of the COVID-19 outbreak in international trade, including plastics trade, two different models will be estimated: pre- and post-COVID-19.\\
+The models will be estimated using either the ARIMA method or the ARDL method, so that the effect of other regressors that may be relevant can also be taken into account. \\
+Finally, a comparison of the two results will be made in the light of the economic situation in recent years.
+
+\end{abstract}
+
+\end{document}
