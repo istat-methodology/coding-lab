@@ -42,5 +42,9 @@ In addition to this, we will also study the measures:
 * Distribution of the degrees of the nodes, in order to verify if it follows a power law and therefore confirm the fact that we are in a "small world",
 * Power of each node
 
-
+Here some source for the coding part:
+* http://marina.blogs.rice.edu/software/
+* https://github.com/marinavannucci/MultGraphModels
+* https://odin.mdacc.tmc.edu/~cbpeterson/software.html
+* https://web.stat.tamu.edu/~yni/software/
 
