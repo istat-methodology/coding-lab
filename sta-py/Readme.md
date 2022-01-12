@@ -48,3 +48,5 @@ Here some source for the coding part:
 * https://odin.mdacc.tmc.edu/~cbpeterson/software.html
 * https://web.stat.tamu.edu/~yni/software/
 
+The main article for the fmri.pdf are https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4465207/pdf/nihms568016.pdf and https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6405235/pdf/nihms-1501126.pdf
+
